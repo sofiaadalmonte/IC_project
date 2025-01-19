@@ -1,13 +1,3 @@
-#<name>:
-#  src:
-#    - <paramters>
-#  typ: <typical spec value>
-#  name: <long name>
-#  min: <minimum spec value>
-#  max: <maximum spec value>
-#  scale: <scale, multiply result by scale>
-#  digits: <significant digits>
-#  unit: Unit
 ibn:
   src:
     - ibns_20u
@@ -29,3 +19,14 @@ vgs:
   scale: 1
   digits: 3
   unit: V
+
+#<name>:
+#  src:
+#    - <paramters>
+#  typ: <typical spec value>
+#  name: <long name>
+#  min: <minimum spec value>
+#  max: <maximum spec value>
+#  scale: <scale, multiply result by scale>
+#  digits: <significant digits>
+#  unit: Unit

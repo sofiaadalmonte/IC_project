@@ -23,7 +23,7 @@ N -100 -430 -0 -430 {lab=IBNS_20U}
 C {cborder/border_s.sym} 520 0 0 0 {
 user="wulff"
 company="wulff"}
-C {devices/ipin.sym} -590 -140 0 0 {name=p2 lab=VSS}
+C {devices/ipin.sym} -590 -140 0 0 {name=VSS lab=VSS}
 C {devices/ipin.sym} -560 -440 0 0 {name=IBPS_5U lab=IBPS_5U}
 C {JNW_ATR_SKY130A/JNWATR_NCH_4C5F0.sym} -380 -310 0 1 {name=xi}
 C {JNW_ATR_SKY130A/JNWATR_NCH_4C5F0.sym} -140 -310 0 0 {name=xo[3:0]}
