@@ -14,7 +14,7 @@ doc:
   # Make docs
   libraries:
     JNW_EX_SKY130A:
-    - JNW_EX
+      - JNW_EX
   #   <library>:
   #       - <cell>
   #       - <cell>
