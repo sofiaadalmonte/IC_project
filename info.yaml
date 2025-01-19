@@ -1,23 +1,13 @@
 library: JNW_EX_SKY130A
 cell: JNW_EX
-
 author: Sofia Dal Monte
-# Your github username
 github: sofiaadalmonte
-# Something funny and descriptive
 tagline: The answer is 42
-# Your email, if you so wish
 email: sofiada@ntnu.no
-# Your github site, usually <github username>.github.io
 url: sofiaadalmonte.github.io
 doc:
-  # Make docs
   libraries:
     JNW_EX_SKY130A:
       - JNW_EX
-  #   <library>:
-  #       - <cell>
-  #       - <cell>
 sim:
-  # <simdir>: command
   JNW_EX: make typical
