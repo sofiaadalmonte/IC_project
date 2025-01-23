@@ -10,11 +10,11 @@ sofiadalmonte
 
 # Why
 
-This makes no change <explain why you made this module>
+This makes no change:
 
 # How
 
-<explain short how you made this module>
+
 
 
 # What
